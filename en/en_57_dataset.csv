@@ -1,4 +1,4 @@
-,trialid,sentnum,ianum,ia,lang,uniform_id,skip,firstfix.dur,firstrun.dur,dur,firstrun.nfix,nfix,refix,reread
+,trialid,sentnum,ianum,ia,lang,uniform_id,skip,firstfix_dur,firstrun_dur,dur,firstrun_nfix,nfix,refix,reread
 0,1.0,7.0,123.0,planting,en,en_57,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1,1.0,7.0,124.0,"times,",en,en_57,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2,1.0,7.0,125.0,as,en,en_57,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

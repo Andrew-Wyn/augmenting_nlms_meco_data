@@ -1,4 +1,4 @@
-,trialid,sentnum,ianum,ia,lang,uniform_id,skip,firstfix.dur,firstrun.dur,dur,firstrun.nfix,nfix,refix,reread
+,trialid,sentnum,ianum,ia,lang,uniform_id,skip,firstfix_dur,firstrun_dur,dur,firstrun_nfix,nfix,refix,reread
 0,2.0,1.0,1.0,The,en,en_49,0.0,145.0,145.0,145.0,1.0,1.0,0.0,0.0
 1,2.0,1.0,2.0,shaka,en,en_49,0.0,449.0,449.0,912.0,1.0,2.0,0.0,1.0
 2,2.0,1.0,3.0,"sign,",en,en_49,0.0,157.0,157.0,157.0,1.0,1.0,0.0,0.0
